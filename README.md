@@ -22,14 +22,21 @@ A Senior student passionate about building intuitive, user-centric applications 
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 My GitHub Stats
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=phananhkhoa181&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhkhoa181&layout=compact&theme=tokyonight"/>
-</a>
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/anh-khoa18/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/akhoa181/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+### 🔥 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phananhkhoa181&theme=tokyonight&hide_border=true" alt="Khoa's GitHub Streak" />
 </p>
 
 ---
