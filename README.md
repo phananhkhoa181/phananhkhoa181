@@ -25,4 +25,12 @@ A Senior student passionate about building intuitive, user-centric applications 
 ### 📊 My GitHub Stats
 <p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=phananhkhoa181&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhkhoa181&layout=compact&theme=tokyonight"/>
+</a>
+</p>
+
+---
+📫 How to reach me: **khoapa.dev@gmail.com**
